@@ -77,4 +77,9 @@ IRISAPP>
 ### Result in SMP
 - ![](https://github.com/rcemper/SPOOL-mapping-ZPM/blob/master/spool.jpg?raw=true)
 
-[Article in DC](https://community.intersystems.com/post/spool-sql-table)
+[Article in DC](https://community.intersystems.com/post/spool-sql-table)    
+
+[Demo Server SMP](https://spool-mapping.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
+[Demo Server WebTerminal](https://spool-mapping.demo.community.intersystems.com/terminal/)    
+        
+**Code Quality** in SCREENSHOTS    
