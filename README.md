@@ -82,4 +82,5 @@ IRISAPP>
 [Demo Server SMP](https://spool-mapping.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
 [Demo Server WebTerminal](https://spool-mapping.demo.community.intersystems.com/terminal/)    
         
-**Code Quality** in SCREENSHOTS    
+**Code Quality**   
+<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/835/screenshots/u1gjagmmilojwadlduffukdwvy4.jpg">
