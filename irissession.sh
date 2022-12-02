@@ -10,6 +10,7 @@ zn "%SYS"
 do ##class(SYS.Container).QuiesceForBundling()
 Do ##class(Security.Users).UnExpireUserPasswords("*")
 ZN "IRISAPP"
+Do \$system.OBJ.ImportDir("/opt/irisapp/src",,"ck")
 zpm "install webterminal"
 halt
 EOF
