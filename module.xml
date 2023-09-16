@@ -3,7 +3,7 @@
   <Document name="spool-mapping.ZPM">
     <Module>
       <Name>spool-mapping</Name>
-      <Version>1.0.1</Version>
+      <Version>1.0.2</Version>
       <Description>local mapping of ^SPOOL global</Description>
       <Keywords>TCOS, Mapping, SPOOL</Keywords>
       <Packaging>module</Packaging>
