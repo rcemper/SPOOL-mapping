@@ -1,7 +1,7 @@
 Class App.Installer
 {
 
-XData setup
+XData setup 
 {
 <Manifest>
   <Default Name="SourceDir" Value="#{$system.Process.CurrentDirectory()}src"/>
